@@ -12,8 +12,7 @@ torch>=1.7.0
 torchvision>=0.8.1
 tqdm>=4.64.0
 easydict
-ultralytics
-
+ultralytics==8.2.22
 # Logging -------------------------------------
 # tensorboard>=2.13.0
 # clearml
